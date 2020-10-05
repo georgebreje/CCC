@@ -21,3 +21,5 @@ namespace CCC
     }
     //comentariu
 }
+// vezi ca ai pus doar Program.cs, trebuie sa pui toate fisierele, cel mai important fiind cel sln
+// -important- ca sa faci pull request trebuie sa dai la fork mai intai (si sa lucrezi pe versiunea forked)
