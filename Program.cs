@@ -10,7 +10,7 @@ namespace CCC
             foreach(string i in nume.numeLista)
                 Console.WriteLine(i);
             Console.WriteLine("\nImi pare bine sa va cunosc pe toti!");
-
+            //test pentru stage, stash
         } 
     }
 
