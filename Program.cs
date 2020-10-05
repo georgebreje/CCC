@@ -15,7 +15,7 @@ namespace CCC
 
     public class numeColegi
     {   
-        public string[] numeLista = {"Andrei","Pavel","Petru"};
+        public string[] numeLista = {"Andrei","Pavel","Petru,Rares"};
 
     }
     //comentariu
