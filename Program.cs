@@ -11,7 +11,7 @@ namespace CCC
                 Console.WriteLine(i);
             Console.WriteLine("\nImi pare bine sa va cunosc pe toti!");
 
-        }
+        } 
     }
 
     public class numeColegi
